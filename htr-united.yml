@@ -1,0 +1,48 @@
+schema: https://htr-united.github.io/schema/2023-06-27/schema.json
+title: HTR Winter School 2024/2025 - Late Medieval Latin, ONB 4135; ONB 4680
+url: https://github.com/HTR-School-Vienna/-2024--late-medieval-latin-
+authors: []
+institutions: []
+description: >-
+  Transcriptions from codd. 4680 and 4135, Wien, Österreichische
+  Nationalbibliothek (ÖNB). Both are saec. XV, Latin.
+language:
+  - lat
+production-software: Transkribus
+automatically-aligned: false
+script:
+  - iso: Latn
+script-type: only-manuscript
+time:
+  notBefore: '1388'
+  notAfter: '1500'
+hands:
+  count: more-than-10
+  precision: exact
+license:
+  name: CC-BY 4.0
+  url: https://creativecommons.org/licenses/by/4.0/
+format: Page-XML
+volume:
+  - metric: lines
+    count: 5634
+citation-file-link: >-
+  https://github.com/HTR-School-Vienna/-2024--late-medieval-latin-/blob/b0835f4cd3205d71011afdedb147c0781fdccca0/CITATION.cff
+transcription-guidelines: >-
+  The guidelines followed are those prescribed by CATMuS (Consistent Approaches
+  for Transcribing Manuscripts) - see https://catmus-guidelines.github.io/.
+  [Ariane Pinche, Thibault Clérice, Alix Chagué, Jean-Baptiste Camps,
+  Malamatenia Vlachou- Efstathiou, et al., CATMuS-Medieval: Consistent
+  Approaches to Transcribing ManuScripts: A generalized set of guidelines and
+  models for Latin scripts from Middle Ages (8th–16th century). 2023.
+  hal-04346939]
+
+
+  Due to the level of complexity in the manuscripts studied, significant
+  interpretation of the guidelines was required. It was necessary to agree on
+  general conventions in order to produce a consistent approach in transcribing;
+  nevertheless, some minor variation will be found based on individual
+  interpretation.
+
+
+  Source of images: Austrian National Library
