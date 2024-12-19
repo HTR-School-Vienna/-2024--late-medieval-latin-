@@ -1,6 +1,6 @@
 <!-- README.md template -->
 
-# Title of your repository/project
+# HTR Winter School 2024/2025 - Late Medieval Latin, ONB 4135; ONB 4680
 
 Short description of the record:
 
