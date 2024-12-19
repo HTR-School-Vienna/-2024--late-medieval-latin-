@@ -1,0 +1,90 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: 2024--Late-Medieval-Latin
+message: >-
+  If you use this dataset, please cite it using the metadata
+  from this file.
+type: dataset
+authors:
+  - given-names: Jan
+    family-names: Maliszewski
+    orcid: 'https://orcid.org/0000-0002-3798-933X'
+  - given-names: Jakub
+    family-names: Fiala
+    orcid: 'https://orcid.org/0009-0009-9152-4742'
+  - given-names: Courtney
+    family-names: Van de Mosselaer
+    orcid: 'https://orcid.org/0000-0003-4536-4900'
+  - given-names: Štefan
+    family-names: Pacola
+    orcid: 'https://orcid.org/0009-0000-6176-8724'
+  - given-names: Annamária
+    family-names: Kovács
+    orcid: 'https://orcid.org/0009-0008-2990-988X'
+  - given-names: Michal
+    family-names: Ťapák
+    orcid: 'https://orcid.org/0009-0006-9945-250X'
+  - given-names: Cerys
+    family-names: Warwick
+    orcid: 'https://orcid.org/0009-0005-9949-1683'
+  - family-names: Odstrcilik
+    given-names: Jan
+    orcid: 'https://orcid.org/0000-0001-9104-9827'
+  - given-names: Miroslav
+    family-names: Kotrha
+    orcid: 'https://orcid.org/0009-0006-6353-9195'
+  - given-names: Lorenzo
+    family-names: Livorsi
+    orcid: 'https://orcid.org/0000-0003-0859-5072'
+  - given-names: Eva
+    family-names: Rutšeková
+    orcid: 'https://orcid.org/0009-0006-6141-9544'
+  - given-names: Davide
+    family-names: Obili
+    orcid: 'https://orcid.org/0009-0006-7944-7623'
+  - given-names: Dorota
+    family-names: Labašová
+    orcid: 'https://orcid.org/0009-0009-2081-4021'
+  - given-names: Giorgio
+    family-names: Di Michino
+    orcid: 'https://orcid.org/0009-0002-7535-8149'
+  - given-names: Zuzana
+    family-names: Čermáková Lukšová
+    orcid: 'https://orcid.org/0000-0001-5450-6785'
+  - given-names: J.P.
+    family-names: Osmond
+  - given-names: Abigail
+    family-names: Provan
+  - given-names: Alexandre
+    family-names: Parent
+  - given-names: Ballo
+    family-names: Harald
+  - given-names: Claudia
+    family-names: Meneghetti
+  - given-names: Emmarae
+    family-names: Stein
+  - given-names: Erika
+    family-names: Dell'Aquila
+  - given-names: Ignacio
+    family-names: Arias Philippi
+  - given-names: Katharina
+    family-names: Strika
+    orcid: 'https://orcid.org/0009-0003-9354-9261'
+  - given-names: Nico
+    family-names: Faltin
+  - given-names: Peter Buch
+    orcid: 'https://orcid.org/0009-0007-0910-6775'
+    family-names: Hvarregaard
+  - given-names: Viktor
+    family-names: Tuček
+repository-code: >-
+  https://github.com/HTR-School-Vienna/-2024--late-medieval-latin-
+abstract: >-
+  Transcriptions from codd. 4680 and 4135, Wien,
+  Österreichische Nationalbibliothek (ÖNB). Both are saec.
+  XV, Latin.
+license: CC-BY-4.0
+version: 1.0.0
+date-released: '2024-12-19'
