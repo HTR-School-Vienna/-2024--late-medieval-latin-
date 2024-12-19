@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2024-11-08T10:58:52.210+01:00</Created>
+        <LastChange>2024-12-13T17:51:27.113+01:00</LastChange>
+        <TranskribusMetadata docId="5059916" pageId="82701700" pageNr="180" tsid="212331827" status="FINAL" userId="8373" imgUrl="https://files.transkribus.eu/Get?id=MGKRYBMPFMJVNEVNFRYRERWV&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=VZQFCLTLLDXOLZYXLETLOFJB" imageId="68048781"/>
+    </Metadata>
+    <Page imageFilename="0180_DTL_8098140-0180.jpeg" imageWidth="3860" imageHeight="5648">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1734603650338" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r_140"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r_140" custom="readingOrder {index:0;}">
+            <Coords points="138,211 3775,211 3775,5395 138,5395"/>
+            <TextLine id="l" custom="readingOrder {index:0;}">
+                <Coords points="765,435 2930,405 2930,375 765,405"/>
+                <Baseline points="765,435 2930,405"/>
+                <TextEquiv>
+                    <Unicode>Compleat inceptũ u̾go maria meũ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_154" custom="readingOrder {index:1;}">
+                <Coords points="799,562 3302,523 3302,493 798,532"/>
+                <Baseline points="799,562 3302,523"/>
+                <TextEquiv>
+                    <Unicode>Collatio de sancto Iohãne Bap̃ᵗᵃ 1434 Basilee</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_161" custom="readingOrder {index:2;}">
+                <Coords points="692,763 3373,774 3373,744 692,733"/>
+                <Baseline points="692,763 3373,774"/>
+                <TextEquiv>
+                    <Unicode>Excellẽtissimi ac heroyci Iohĩs Baptiste saluatoris nostri/</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_168" custom="readingOrder {index:3;}">
+                <Coords points="665,890 3117,883 3117,853 665,860"/>
+                <Baseline points="665,890 3117,883"/>
+                <TextEquiv>
+                    <Unicode>ꝓphete ⁊ doctoris/ uirgĩs ⁊ martiris/ cuiꝰ natał</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_175" custom="readingOrder {index:4;}">
+                <Coords points="622,993 3107,993 3107,963 622,963"/>
+                <Baseline points="622,993 3107,993"/>
+                <TextEquiv>
+                    <Unicode>nobis hodie gaudiosa dies illuxit/ laudes alt̾nae̾</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_182" custom="readingOrder {index:5;}">
+                <Coords points="382,1068 3083,1095 3083,1065 382,1038"/>
+                <Baseline points="382,1068 3083,1095"/>
+                <TextEquiv>
+                    <Unicode>priuilegioꝵ q; suoꝵ stupẽda p̃conia/ ꝓut tẽpꝰ efflagitat</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_189" custom="readingOrder {index:6;}">
+                <Coords points="430,1169 3134,1211 3134,1181 430,1139"/>
+                <Baseline points="430,1169 3134,1211"/>
+                <TextEquiv>
+                    <Unicode>deduct᷑s ĩ mediũ Rꝭᵐⁱ Rꝭᵈⁱq; prẽs/ ac ceti̾ uiri clarissimi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_196" custom="readingOrder {index:7;}">
+                <Coords points="407,1278 3369,1314 3370,1284 407,1248"/>
+                <Baseline points="407,1278 3369,1314"/>
+                <TextEquiv>
+                    <Unicode>/ duce spũ sãcto adiuuati/ unde q̾bꝰq; modis exordiar dũ attẽdo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_110" custom="readingOrder {index:8;}">
+                <Coords points="1537,1333 1824,1314 1940,1338 1947,1341 1957,1313 1948,1310 1826,1284 1535,1303"/>
+                <Baseline points="1610,1325 1824,1314 1940,1338 1947,1341"/>
+                <TextEquiv>
+                    <Unicode>premissa</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_203" custom="readingOrder {index:9;}">
+                <Coords points="234,1398 3188,1450 3188,1420 235,1368"/>
+                <Baseline points="234,1398 3188,1450"/>
+                <TextEquiv>
+                    <Unicode>digne obstupesco/ dũ enĩ hec‸ pelagus abissale ꝯspicio/ liberet</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_210" custom="readingOrder {index:10;}">
+                <Coords points="396,1496 3159,1569 3160,1539 397,1466"/>
+                <Baseline points="396,1496 3159,1569"/>
+                <TextEquiv>
+                    <Unicode>meã impericiã silẽtio cohibe̾/ ꝙͣ ꝙ̾ corã hoc scõꝵ/ doctĩssiõꝵ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_217" custom="readingOrder {index:11;}">
+                <Coords points="413,1622 3058,1665 3059,1635 413,1592"/>
+                <Baseline points="410,1609 1092,1601 2039,1612 3058,1665"/>
+                <TextEquiv>
+                    <Unicode>q; orbis luĩariũ cetu deꝓme̾/ nisi tot ĩaudite a seculis</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_224" custom="readingOrder {index:12;}">
+                <Coords points="421,1739 3175,1800 3176,1770 421,1709"/>
+                <Baseline points="417,1716 1526,1711 3180,1773"/>
+                <TextEquiv>
+                    <Unicode>nouitates secͤta silẽtii resoluen̾t/ obmutescẽtꝭ ligwe fᵉna</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_231" custom="readingOrder {index:13;}">
+                <Coords points="421,1838 3060,1885 3061,1855 422,1808"/>
+                <Baseline points="421,1838 1794,1819 3060,1885"/>
+                <TextEquiv>
+                    <Unicode>laxarẽt/ totq; abditoꝵ misteri̾a ãmiratiõn dignissĩa/ cũ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_238" custom="readingOrder {index:14;}">
+                <Coords points="404,1947 3139,1997 3140,1967 404,1917"/>
+                <Baseline points="397,1928 1456,1929 3139,1997"/>
+                <TextEquiv>
+                    <Unicode>nostri ꝓfectus fiducia loqui compellen̾t/ si quiđ ꝓphetica</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_114" custom="readingOrder {index:15;}">
+                <Coords points="432,2046 1607,2039 3081,2107 3079,2110 3103,2128 3122,2088 1608,2009 432,2016"/>
+                <Baseline points="432,2046 1607,2039 3081,2107 3079,2110"/>
+                <TextEquiv>
+                    <Unicode>hic dig̾tate ꝓmeruit/ ne laudes eiꝰ silet̾ ĩgͣta posti̾tas/ cuiꝰ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_117" custom="readingOrder {index:16;}">
+                <Coords points="1414,2080 1579,2077 1579,2047 1414,2050"/>
+                <Baseline points="1414,2080 1579,2077"/>
+                <TextEquiv>
+                    <Unicode>reꝵ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_132" custom="readingOrder {index:17;}">
+                <Coords points="421,2170 1915,2168 3063,2221 3064,2191 1916,2138 421,2140"/>
+                <Baseline points="421,2170 1915,2168 3063,2221"/>
+                <TextEquiv>
+                    <Unicode>sic a deo tot mirãdaꝵ ꝓdigiis dicat᷑ ip̃a natĩtas/ que uo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_170" custom="readingOrder {index:18;}">
+                <Coords points="449,2251 2066,2272 3045,2319 3042,2327 3071,2335 3080,2293 2067,2242 449,2221"/>
+                <Baseline points="449,2251 2066,2272 3045,2319 3042,2327"/>
+                <TextEquiv>
+                    <Unicode>cẽ pr̃i reddidᵗ/ sac̾doti p̃ꝑauit eloꝙ̃ciã/ lucẽ infudit gẽtibꝰ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_181" custom="readingOrder {index:19;}">
+                <Coords points="469,2367 2213,2386 3123,2418 3124,2388 2214,2356 469,2337"/>
+                <Baseline points="413,2362 2213,2386 3123,2418"/>
+                <TextEquiv>
+                    <Unicode>/uite x̾ane ordinẽ/ et moi̾bꝰ disciplinã/ Nã ubi Ioħes ꝓdiit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_32" custom="readingOrder {index:20;}">
+                <Coords points="464,2461 1881,2474 3120,2526 3117,2540 3146,2547 3154,2499 1882,2444 464,2431"/>
+                <Baseline points="594,2453 1881,2474 3120,2526 3117,2540"/>
+                <TextEquiv>
+                    <Unicode>p̾us exultat ꝙͣ nascit᷑/ p̾us ꝙͣ carneis ꝯtẽplat᷑  m̃đ ocuł</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_62" custom="readingOrder {index:21;}">
+                <Coords points="471,2572 1596,2564 3003,2636 3005,2606 1596,2534 471,2542"/>
+                <Baseline points="427,2569 1596,2564 3003,2636"/>
+                <TextEquiv>
+                    <Unicode>/ iam spũ dñm m̃di ꝯfitet᷑/ ffit deniq; r̾pẽte pr̃ ꝓpheta/</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_15" custom="readingOrder {index:22;}">
+                <Coords points="419,2665 2181,2700 3065,2748 3066,2718 2182,2670 420,2635"/>
+                <Baseline points="419,2665 2181,2700 3065,2748"/>
+                <TextEquiv>
+                    <Unicode>affatus us; assũpsit ꝓlẽ suscepit affectio ⁊  sacerdotem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_26" custom="readingOrder {index:23;}">
+                <Coords points="412,2787 2028,2804 3073,2850 3074,2821 2029,2774 412,2757"/>
+                <Baseline points="412,2787 2028,2804 3073,2850"/>
+                <TextEquiv>
+                    <Unicode>functio recognoscit/ hoc admirãda ⁊ si eloqui ꝓhibeat</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_51" custom="readingOrder {index:24;}">
+                <Coords points="446,2886 1909,2899 3101,2961 3103,2931 1910,2869 446,2856"/>
+                <Baseline points="446,2886 1909,2899 3101,2961"/>
+                <TextEquiv>
+                    <Unicode>putei huiꝰ altiᵈᵒ/ silere tñ nõ sinit nati noƀ hodie ꝑuuli</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_74" custom="readingOrder {index:25;}">
+                <Coords points="449,2987 1683,3004 3216,3082 3640,3078 3640,3048 3216,3052 1684,2974 449,2957"/>
+                <Baseline points="449,2987 1683,3004 3216,3082 3640,3078"/>
+                <TextEquiv>
+                    <Unicode>admirabilis dignitas/ scĩtas stupẽda/ ⁊ ꝯuersatio altissĩa cũctis fidelibꝰ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_97" custom="readingOrder {index:26;}">
+                <Coords points="426,3108 1675,3101 2607,3157 3119,3142 3118,3112 2607,3127 1676,3071 426,3078"/>
+                <Baseline points="426,3108 1675,3101 2607,3157 3119,3142"/>
+                <TextEquiv>
+                    <Unicode>digne imitãda/ hic enĩ p̃co est oĩᵐ iudicꝭ/ uox uerbi/</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_108" custom="readingOrder {index:27;}">
+                <Coords points="443,3224 2164,3239 3110,3293 3111,3263 2165,3209 444,3194"/>
+                <Baseline points="443,3224 2164,3239 3110,3293"/>
+                <TextEquiv>
+                    <Unicode>dĩni misterii baiulus/ x̾ane religioꝭ exẽplar/ tytulus fidei</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_141" custom="readingOrder {index:28;}">
+                <Coords points="452,3343 1839,3358 2478,3363 3092,3398 3094,3368 2479,3333 1840,3328 452,3313"/>
+                <Baseline points="418,3339 1839,3358 2478,3363 3092,3398"/>
+                <TextEquiv>
+                    <Unicode>/ lucerna moꝵ Anachoritaꝵ specłm/ et tociꝰ sancte ꝯuer</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_157" custom="readingOrder {index:29;}">
+                <Coords points="444,3442 1591,3458 2299,3474 3068,3492 3068,3462 2300,3444 1592,3428 444,3412"/>
+                <Baseline points="444,3442 1591,3458 2299,3474 3068,3492"/>
+                <TextEquiv>
+                    <Unicode>satiõis ꝑadigma/ Testa᷑ hoc C̾sᵒᵐꝰ Ioħs ĩꝙͥ stola uir</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_176" custom="readingOrder {index:30;}">
+                <Coords points="459,3556 2000,3570 3100,3627 3101,3597 2001,3540 459,3526"/>
+                <Baseline points="459,3556 2000,3570 3100,3627"/>
+                <TextEquiv>
+                    <Unicode>tutũ/ magisteriũ uite/ scĩtatꝭ forͣ/ norma iusti ͤ pudi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_215" custom="readingOrder {index:31;}">
+                <Coords points="445,3670 1781,3687 2534,3710 3094,3729 3095,3699 2535,3680 1782,3657 445,3640"/>
+                <Baseline points="445,3670 1781,3687 2534,3710 3094,3729"/>
+                <TextEquiv>
+                    <Unicode>cicie tytulus/ uirgĩ ͭꝭ specłm/ castitatꝭ ex ͫ / pnĩ̃e uia/ pec</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_232" custom="readingOrder {index:32;}">
+                <Coords points="453,3770 1618,3798 2388,3809 3155,3843 3156,3813 2388,3779 1619,3768 454,3740"/>
+                <Baseline points="453,3770 1618,3798 2388,3809 3155,3843"/>
+                <TextEquiv>
+                    <Unicode>catoꝵ uenia fidei disciplina/ Iohẽs mayor hoĩe par angeł</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_248" custom="readingOrder {index:33;}">
+                <Coords points="441,3867 1557,3905 2346,3925 3079,3924 3079,3894 2347,3895 1558,3875 442,3837"/>
+                <Baseline points="441,3867 1557,3905 2346,3925 3079,3924"/>
+                <TextEquiv>
+                    <Unicode>legꝭ sũma/ ewãgelii sacio/ uox apłoꝵ silẽtiũ ꝓphetaꝵ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_271" custom="readingOrder {index:34;}">
+                <Coords points="417,3990 1821,4020 2476,4044 3148,4037 3148,4007 2476,4014 1822,3990 417,3960"/>
+                <Baseline points="417,3990 1821,4020 2476,4044 3148,4037"/>
+                <TextEquiv>
+                    <Unicode>lucerna mũdi/ p̃cursor iudicꝭ/ xp̃i imitator/ domĩ testꝭ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_310" custom="readingOrder {index:35;}">
+                <Coords points="424,4115 1398,4118 2341,4128 3217,4145 3217,4115 2342,4098 1398,4088 424,4085"/>
+                <Baseline points="424,4115 1398,4118 2341,4128 3217,4145"/>
+                <TextEquiv>
+                    <Unicode>ac tociꝰ mediꝰ trinitatꝭ/ hĩc dũ modo leuita ĩ uocẽ eccleᵉ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_337" custom="readingOrder {index:36;}">
+                <Coords points="412,4206 1486,4215 2275,4242 3560,4249 3560,4219 2275,4212 1487,4185 412,4176"/>
+                <Baseline points="412,4206 1486,4215 2275,4242 3560,4249"/>
+                <TextEquiv>
+                    <Unicode>ꝓrũꝑet ĩ illud ꝓphetitũ ysaie 49 calˡᵒ ĩtonãs// ĩqͥebat// nõ ab re</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_348" custom="readingOrder {index:37;}">
+                <Coords points="359,4333 2086,4373 3260,4358 3260,4328 2086,4343 359,4303"/>
+                <Baseline points="359,4333 2086,4373 3170,4355"/>
+                <TextEquiv>
+                    <Unicode>dedi te ĩ lucẽ gẽciũ/ de quibꝰ pauca disse̾nda occ᷑rũt ad</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Compleat inceptũ u̾go maria meũ&#13;
+Collatio de sancto Iohãne Bap̃ᵗᵃ 1434 Basilee&#13;
+Excellẽtissimi ac heroyci Iohĩs Baptiste saluatoris nostri/&#13;
+ꝓphete ⁊ doctoris/ uirgĩs ⁊ martiris/ cuiꝰ natał&#13;
+nobis hodie gaudiosa dies illuxit/ laudes alt̾nae̾&#13;
+priuilegioꝵ q; suoꝵ stupẽda p̃conia/ ꝓut tẽpꝰ efflagitat&#13;
+deduct᷑s ĩ mediũ Rꝭᵐⁱ Rꝭᵈⁱq; prẽs/ ac ceti̾ uiri clarissimi&#13;
+/ duce spũ sãcto adiuuati/ unde q̾bꝰq; modis exordiar dũ attẽdo&#13;
+premissa&#13;
+digne obstupesco/ dũ enĩ hec‸ pelagus abissale ꝯspicio/ liberet&#13;
+meã impericiã silẽtio cohibe̾/ ꝙͣ ꝙ̾ corã hoc scõꝵ/ doctĩssiõꝵ&#13;
+q; orbis luĩariũ cetu deꝓme̾/ nisi tot ĩaudite a seculis&#13;
+nouitates secͤta silẽtii resoluen̾t/ obmutescẽtꝭ ligwe fᵉna&#13;
+laxarẽt/ totq; abditoꝵ misteri̾a ãmiratiõn dignissĩa/ cũ&#13;
+nostri ꝓfectus fiducia loqui compellen̾t/ si quiđ ꝓphetica&#13;
+hic dig̾tate ꝓmeruit/ ne laudes eiꝰ silet̾ ĩgͣta posti̾tas/ cuiꝰ&#13;
+reꝵ&#13;
+sic a deo tot mirãdaꝵ ꝓdigiis dicat᷑ ip̃a natĩtas/ que uo&#13;
+cẽ pr̃i reddidᵗ/ sac̾doti p̃ꝑauit eloꝙ̃ciã/ lucẽ infudit gẽtibꝰ&#13;
+/uite x̾ane ordinẽ/ et moi̾bꝰ disciplinã/ Nã ubi Ioħes ꝓdiit&#13;
+p̾us exultat ꝙͣ nascit᷑/ p̾us ꝙͣ carneis ꝯtẽplat᷑  m̃đ ocuł&#13;
+/ iam spũ dñm m̃di ꝯfitet᷑/ ffit deniq; r̾pẽte pr̃ ꝓpheta/&#13;
+affatus us; assũpsit ꝓlẽ suscepit affectio ⁊  sacerdotem&#13;
+functio recognoscit/ hoc admirãda ⁊ si eloqui ꝓhibeat&#13;
+putei huiꝰ altiᵈᵒ/ silere tñ nõ sinit nati noƀ hodie ꝑuuli&#13;
+admirabilis dignitas/ scĩtas stupẽda/ ⁊ ꝯuersatio altissĩa cũctis fidelibꝰ&#13;
+digne imitãda/ hic enĩ p̃co est oĩᵐ iudicꝭ/ uox uerbi/&#13;
+dĩni misterii baiulus/ x̾ane religioꝭ exẽplar/ tytulus fidei&#13;
+/ lucerna moꝵ Anachoritaꝵ specłm/ et tociꝰ sancte ꝯuer&#13;
+satiõis ꝑadigma/ Testa᷑ hoc C̾sᵒᵐꝰ Ioħs ĩꝙͥ stola uir&#13;
+tutũ/ magisteriũ uite/ scĩtatꝭ forͣ/ norma iusti ͤ pudi&#13;
+cicie tytulus/ uirgĩ ͭꝭ specłm/ castitatꝭ ex ͫ / pnĩ̃e uia/ pec&#13;
+catoꝵ uenia fidei disciplina/ Iohẽs mayor hoĩe par angeł&#13;
+legꝭ sũma/ ewãgelii sacio/ uox apłoꝵ silẽtiũ ꝓphetaꝵ&#13;
+lucerna mũdi/ p̃cursor iudicꝭ/ xp̃i imitator/ domĩ testꝭ&#13;
+ac tociꝰ mediꝰ trinitatꝭ/ hĩc dũ modo leuita ĩ uocẽ eccleᵉ&#13;
+ꝓrũꝑet ĩ illud ꝓphetitũ ysaie 49 calˡᵒ ĩtonãs// ĩqͥebat// nõ ab re&#13;
+dedi te ĩ lucẽ gẽciũ/ de quibꝰ pauca disse̾nda occ᷑rũt ad</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>
