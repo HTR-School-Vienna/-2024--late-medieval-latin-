@@ -1,6 +1,6 @@
 schema: https://htr-united.github.io/schema/2023-06-27/schema.json
 title: HTR Winter School 2024/2025 - Late Medieval Latin, ONB 4135; ONB 4680
-url: https://github.com/HTR-School-Vienna/-2024--late-medieval-latin-
+url: https://github.com/HTR-School-Vienna/2024--late-medieval-latin
 authors:
   - name: Jan
     surname: Maliszewski
@@ -135,7 +135,7 @@ volume:
  - metric: lines
    count: 5634
 citation-file-link: >-
- https://github.com/HTR-School-Vienna/-2024--late-medieval-latin-/blob/b0835f4cd3205d71011afdedb147c0781fdccca0/CITATION.cff
+ https://github.com/HTR-School-Vienna/2024--late-medieval-latin/blob/b0835f4cd3205d71011afdedb147c0781fdccca0/CITATION.cff
 transcription-guidelines: >-
  The guidelines followed are those prescribed by CATMuS (Consistent Approaches
  for Transcribing Manuscripts) - see https://catmus-guidelines.github.io/.
