@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<trpDocMetadata>
+    <docId>5059195</docId>
+    <title>Cod. 4135</title>
+    <uploadTimestamp>1731057955154</uploadTimestamp>
+    <uploader>jan.odstrcilik@gmail.com</uploader>
+    <uploaderId>8373</uploaderId>
+    <nrOfPages>584</nrOfPages>
+    <pageId>82698375</pageId>
+    <url>https://files.transkribus.eu/Get?fileType=view&amp;id=DWNXILSONFCYJKULYUWLRRHC</url>
+    <thumbUrl>https://files.transkribus.eu/Get?fileType=thumb&amp;id=DWNXILSONFCYJKULYUWLRRHC</thumbUrl>
+    <language></language>
+    <status>0</status>
+    <fimgStoreColl>TrpDoc_DEA_5059195</fimgStoreColl>
+    <origDocId>0</origDocId>
+    <collectionList>
+        <colList>
+            <colId>1450790</colId>
+            <colName>HTR Winter School 2024 - Late Medieval Latin</colName>
+            <description>created by jan.odstrcilik@gmail.com</description>
+            <crowdsourcing>false</crowdsourcing>
+            <elearning>false</elearning>
+            <nrOfDocuments>0</nrOfDocuments>
+        </colList>
+        <colList>
+            <colId>1762228</colId>
+            <colName>HTR Winter School 2024 - Late Medieval Latin - NEW</colName>
+            <description>created by jan.odstrcilik@gmail.com</description>
+            <crowdsourcing>false</crowdsourcing>
+            <elearning>false</elearning>
+            <nrOfDocuments>0</nrOfDocuments>
+        </colList>
+    </collectionList>
+    <mainColId>1450790</mainColId>
+</trpDocMetadata>
